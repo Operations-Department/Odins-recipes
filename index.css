@@ -27,4 +27,5 @@ img {
 div {
     background-color: rgba(175, 175, 175, 0.589);
     margin: 25px 20% 75px;
+    padding: 25px;
 }

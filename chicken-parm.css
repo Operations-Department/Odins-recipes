@@ -1,0 +1,51 @@
+* {
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+body {
+    background-image: url(img/back-chicken.jpg);
+    background-position: center;
+    background-size: cover; 
+}
+p,
+li {
+    font-size: 40px; 
+}
+p {
+    text-align: left;
+}
+
+div {
+    background-color: rgba(255, 255, 255, 0.699);
+    margin: 25px 20% 75px;
+    padding: 25px;
+}
+
+img {
+    height: 600px;
+    width: 900px;
+    padding: 25px;
+    padding-bottom: 75px;
+    
+}
+
+li {
+    text-align: left;
+}
+
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3{
+    font-size: 45px;
+}
